@@ -1,1 +1,4 @@
 .vscode/settings.json
+*.gz
+*.pt
+*ubyte
